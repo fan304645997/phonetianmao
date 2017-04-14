@@ -1,0 +1,26 @@
+ body{
+    	font-family: Helvetica;
+    	-webkit-overflow-scrolling: touth;
+    	overflow-scrolling: touth;
+        font-size: 0.14rem;
+    }
+    a,input,form，button{
+    	-webkit-tap-highlight-color: rgba(0,0,0,0);
+    	-webkit-appearance: none;
+
+    }
+    
+    p
+    *{
+    	-webkit-text-size-adjust: 100%;
+    	text-size-adjust: 100%;
+    	max-height: 999999999px;
+    	-webkit-user-select:none;
+    	user-select:none;
+        padding: 0px;
+        margin: 0px;
+        list-style: none;
+
+
+    	
+    }
